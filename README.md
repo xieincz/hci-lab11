@@ -20,13 +20,13 @@ contribution:
 student ID: 202000130052
 
 contribution: 
-1. Collect criticism.
+1. Collect positive feedback.
 
 #### 方博文
 student ID: 202000161244
 
 contribution: 
-1. Collect positive feedback.
+1. Collect criticism.
 
 #### 黄艺
 student ID: 201900411049
